@@ -1,0 +1,14 @@
+# Site settings
+title: Bridging the Semantic Gap - An Empirical Study and LLM-Enhanced Framework for Automated Test Migration
+description: This page contains the dataset used in the ICSE 2026 submission.
+# baseurl: "" # the subpath of your site, e.g. /blog
+
+# User settings
+username: Bridging the Semantic Gap - An Empirical Study and LLM-Enhanced Framework for Automated Test Migration
+user_description: This page contains the dataset used in the ICSE 2026 submission.
+user_title: This page contains the dataset used in the ICSE 2026 submission.
+
+github_username:  ContextMig
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
